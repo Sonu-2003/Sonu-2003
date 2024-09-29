@@ -7,6 +7,8 @@
 
 - 🌱 I’m currently learning **Spring Framework, Hibernate**
 
+- 🚀 Currently working on a project **Bell-Reckoner**
+- 
 - 💬 Ask me about **Java , Frontend developement**
 
 - 📫 How to reach me **swarnava2003.sonu@gmail.com**
